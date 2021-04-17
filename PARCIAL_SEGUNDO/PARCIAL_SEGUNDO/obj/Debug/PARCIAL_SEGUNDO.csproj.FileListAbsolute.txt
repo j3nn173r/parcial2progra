@@ -1,0 +1,5 @@
+C:\Users\mita\source\repos\PARCIAL_SEGUNDO\PARCIAL_SEGUNDO\obj\Debug\PARCIAL_SEGUNDO.csprojAssemblyReference.cache
+C:\Users\mita\source\repos\PARCIAL_SEGUNDO\PARCIAL_SEGUNDO\obj\Debug\PARCIAL_SEGUNDO.Form1.resources
+C:\Users\mita\source\repos\PARCIAL_SEGUNDO\PARCIAL_SEGUNDO\obj\Debug\PARCIAL_SEGUNDO.Properties.Resources.resources
+C:\Users\mita\source\repos\PARCIAL_SEGUNDO\PARCIAL_SEGUNDO\obj\Debug\PARCIAL_SEGUNDO.csproj.GenerateResource.cache
+C:\Users\mita\source\repos\PARCIAL_SEGUNDO\PARCIAL_SEGUNDO\obj\Debug\PARCIAL_SEGUNDO.csproj.CoreCompileInputs.cache
